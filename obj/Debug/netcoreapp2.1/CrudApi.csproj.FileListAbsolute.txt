@@ -1,0 +1,14 @@
+C:\Users\Smartware Solution\source\repos\CrudApi\CrudApi\bin\Debug\netcoreapp2.1\CrudApi.deps.json
+C:\Users\Smartware Solution\source\repos\CrudApi\CrudApi\bin\Debug\netcoreapp2.1\CrudApi.runtimeconfig.json
+C:\Users\Smartware Solution\source\repos\CrudApi\CrudApi\bin\Debug\netcoreapp2.1\CrudApi.runtimeconfig.dev.json
+C:\Users\Smartware Solution\source\repos\CrudApi\CrudApi\bin\Debug\netcoreapp2.1\CrudApi.dll
+C:\Users\Smartware Solution\source\repos\CrudApi\CrudApi\bin\Debug\netcoreapp2.1\CrudApi.pdb
+C:\Users\Smartware Solution\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.csprojAssemblyReference.cache
+C:\Users\Smartware Solution\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.csproj.CoreCompileInputs.cache
+C:\Users\Smartware Solution\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.RazorAssemblyInfo.cache
+C:\Users\Smartware Solution\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.RazorAssemblyInfo.cs
+C:\Users\Smartware Solution\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.AssemblyInfoInputs.cache
+C:\Users\Smartware Solution\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.AssemblyInfo.cs
+C:\Users\Smartware Solution\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.RazorTargetAssemblyInfo.cache
+C:\Users\Smartware Solution\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.dll
+C:\Users\Smartware Solution\source\repos\CrudApi\CrudApi\obj\Debug\netcoreapp2.1\CrudApi.pdb
